@@ -10,6 +10,8 @@ public class GitPratice1 {
 	public void Practice3(){
 
 		System.out.println("Practicing pull operation2");
+		System.out.println("Practicing pull operation3");
+
 		
 
 	}
